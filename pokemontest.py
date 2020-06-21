@@ -1,14 +1,8 @@
 """
-File: extension.py
-------------------
-This is a file for creating an optional extension program, if
-you'd like to do so.
+ It is a test that tells you who is your spirit pokemon according to your habits
+ The following is displayed to user
 """
-
-
 def main():
-    # It is a test that tells you who is your spirit pokemon according to your habits
-    # The following is displayed to user
     print("If you are a 90s kid and want to know which pokemon you are, This test is for you")
     print("there are a series of questions that you have to answer as 'y' or 'n', and we will tell you who is your")
     print("spirit pokemon")
